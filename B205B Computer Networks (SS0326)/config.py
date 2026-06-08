@@ -1,0 +1,16 @@
+
+SERVER_HOST = "127.0.0.1"
+SERVER_PORT = 9090
+
+MSG_TYPE_CHAT    = "chat"
+MSG_TYPE_SYSTEM  = "system"
+MSG_TYPE_COMMAND = "command"
+MSG_TYPE_ERROR   = "error"
+
+DEFAULT_ROOM   = "general"
+MAX_ROOM_USERS = 50
+
+LOG_FILE   = "server.log"
+LOG_LEVEL  = "DEBUG"
+
+BUFFER_SIZE = 4096
